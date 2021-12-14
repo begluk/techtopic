@@ -13,7 +13,7 @@ feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
 markdown: kramdown
-author:"TechTopic.org Team"
+author: "TechTopic.org Team"
 kramdown:
   syntax_highlighter_opts:
     disable: true
