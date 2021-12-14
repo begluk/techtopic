@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
 ---
 
 We write blog posts about tech products, tutorials, and much more.
