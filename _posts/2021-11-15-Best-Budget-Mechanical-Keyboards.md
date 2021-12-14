@@ -31,7 +31,7 @@ Cons:
 
 * USB cable is hard-wired
 
-<button class="buybutton" href="https://amzn.to/3m4IrQq">Redragon K552 on Amazon</button>
+[Redragon K552 on Amazon]("https://amzn.to/3m4IrQq")
 
 ### 2\. RK Royal Kludge RK61
 
@@ -49,7 +49,7 @@ Cons:
 
 * Keycap wiggle, although minimal, is noticeable
 
-<button class="buybutton" href="https://amzn.to/3s6awuj">RK Royal Kludge RK61 on Amazon</button>
+[RK Royal Kludge RK61 on Amazon]("https://amzn.to/3s6awuj")
 
 ### 3\. DIERYA DK63
 
@@ -67,7 +67,7 @@ Cons:
 
 * Takes time to get used to the tightly packed keys
 
-<button class="buybutton" href="https://amzn.to/3dNaPSx">DIERYA DK63 on Amazon</button>
+[DIERYA DK63 on Amazon]("https://amzn.to/3dNaPSx")
 
 ### 4\. HK GAMING GK61
 
@@ -84,7 +84,7 @@ Cons:
 
 * Keycaps are a little wobbly, but it's not too noticeable
 
-<button class="buybutton" href="https://amzn.to/3dTy6SN">HK GAMING GK61 on Amazon</button>
+[HK GAMING GK61 on Amazon]("https://amzn.to/3dTy6SN")
 
 ### 5\. Cooler Master CK530
 
@@ -102,4 +102,4 @@ Cons:
 
 * USB cable not removable
 
-<button class="buybutton" href="https://amzn.to/3sajkPN">Cooler Master CK530 on Amazon</button>
+[Cooler Master CK530 on Amazon]("https://amzn.to/3sajkPN")
