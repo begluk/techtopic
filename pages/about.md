@@ -5,11 +5,8 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+We are a blog about tech products, tutorials, and much more.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+We work hard to find products and write reviews about them. We search for user-generated reviews on many sites and try our best to compile a good review.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+We may get a commission from the products you buy through our Amazon links.
