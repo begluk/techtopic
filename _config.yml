@@ -1,6 +1,6 @@
 title: "TechTopic.org"
 email: contact@techtopic.org
-timezone: UTC
+timezone: UTC-5
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
