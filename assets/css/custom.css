@@ -4,3 +4,52 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+table {
+  border: 1px solid #aaa;
+  background-color: #eee;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table td, th {
+  border: 1px solid #fff;
+  padding: 3px 2px;
+}
+
+table tbody td {
+  font-size: 16px;
+}
+
+table tr:nth-child(even) {
+  background: #ddd;
+}
+
+table thead {
+  background: #111;
+  border-bottom: 1px solid #8c8c8c;
+}
+
+table thead th {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  border-left: 1px solid #d0e4f5;
+}
+
+table thead th:first-child {
+  border-left: none;
+}
+
+table tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background: #d0e4f5;
+  border-top: 2px solid #444;
+}
+
+table tfoot td {
+  font-size: 14px;
+}
