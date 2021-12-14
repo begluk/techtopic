@@ -53,3 +53,7 @@ table tfoot {
 table tfoot td {
   font-size: 14px;
 }
+
+a:visited {
+  color: pink;
+}
