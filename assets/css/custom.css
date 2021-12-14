@@ -55,6 +55,6 @@ table tfoot td {
   font-size: 14px;
 }
 
-a:visited {
-  color: pink;
+.article-post a:visited {
+    color: purple;
 }
