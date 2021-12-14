@@ -3,7 +3,9 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+body {
+  font-family: "TT Norms Pro", helvetica, arial, sans-serif;
+}
 
 table {
   border: 1px solid #aaa;
