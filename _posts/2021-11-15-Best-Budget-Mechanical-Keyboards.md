@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Top 5 Best Budget Mechanical Keyboards as of December 2021
-image: Mechanical-Keyboard.jpg
+image: assets/images/Mechanical-Keyboard.jpg
 tags: [Mechanical, Keyboard, PC, Gaming]
 ---
 
