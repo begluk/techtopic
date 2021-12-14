@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: How to set up a Minecraft server for free without port forwarding [2021]
-image: Minecraft.jpg
+image: assets/images/Minecraft.jpg
 tags: [Mechanical, Keyboard, PC, Gaming]
 ---
 

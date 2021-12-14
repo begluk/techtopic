@@ -2,7 +2,7 @@
 published: false
 layout: post
 title: Best Budget Wireless Earbuds as of December 2021
-img: Wireless-Earbuds.jpg
+image: assets/images/Wireless-Earbuds.jpg
 tags: [earbuds, phone, wireless]
 ---
 

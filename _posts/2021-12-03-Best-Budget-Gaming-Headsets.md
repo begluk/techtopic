@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Top 5 Best Budget Gaming Headsets as of December 2021
-image: Gaming-Headset.jpg
+image: assets/images/Gaming-Headset.jpg
 tags: [headset, pc, gaming]
 ---
 

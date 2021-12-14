@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 4 Easy Ways Anyone Can Earn Passive Income Online in 2021
-image: money.jpg
+image: assets/images/money.jpg
 tags: [Money, Income, Free]
 ---
 
