@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "TechTopic.org"
+email: contact@techtopic.org
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-1B71GH7Z62
 
 # Authors
 authors:
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/tech_topic_/
+  tiktok: tiktok.com/@techtopic.org
+  youtube: https://www.youtube.com/channel/UCPFELz5VkpUfW157Ckp76Ag
 
 # Plugins
 plugins: 
