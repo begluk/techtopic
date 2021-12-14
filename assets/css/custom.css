@@ -36,6 +36,7 @@ table thead th {
   font-weight: bold;
   color: #fff;
   border-left: 1px solid #d0e4f5;
+  text-align: center;
 }
 
 table thead th:first-child {
