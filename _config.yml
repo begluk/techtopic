@@ -5,7 +5,6 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
 paginate: 30
 disqus: 'techtopic-org'
 locale: en_us
