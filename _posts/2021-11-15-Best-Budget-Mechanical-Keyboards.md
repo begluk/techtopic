@@ -31,7 +31,7 @@ Cons:
 
 * USB cable is hard-wired
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B016MAK38U&amp;asins=B016MAK38U&amp;linkId=8454d70dfc4ee1673f314bf32686757b&amp;show_border=true&amp;link_opens_in_new_window=true" frameborder="0"></iframe>
+<button class="buybutton" href="https://amzn.to/3m4IrQq">Redragon K552 on Amazon</button>
 
 ### 2\. RK Royal Kludge RK61
 
@@ -49,7 +49,7 @@ Cons:
 
 * Keycap wiggle, although minimal, is noticeable
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=techtopic05-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B0832CZNS5&amp;asins=B0832CZNS5&amp;linkId=05153baf4a8531c62667a944acddb924&amp;show_border=true&amp;link_opens_in_new_window=true" frameborder="0"></iframe>
+<button class="buybutton" href="https://amzn.to/3s6awuj">RK Royal Kludge RK61 on Amazon</button>
 
 ### 3\. DIERYA DK63
 
@@ -67,7 +67,7 @@ Cons:
 
 * Takes time to get used to the tightly packed keys
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=techtopic05-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07FZSDYTZ&amp;asins=B07FZSDYTZ&amp;linkId=68f41f768087f1adcb27c7c34b813294&amp;show_border=true&amp;link_opens_in_new_window=true" frameborder="0"></iframe>
+<button class="buybutton" href="https://amzn.to/3dNaPSx">DIERYA DK63 on Amazon</button>
 
 ### 4\. HK GAMING GK61
 
@@ -84,7 +84,7 @@ Cons:
 
 * Keycaps are a little wobbly, but it's not too noticeable
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=techtopic05-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07PT9NRRY&amp;asins=B07PT9NRRY&amp;linkId=a5023721f59ec4598cbd16c3a08d1d3f&amp;show_border=true&amp;link_opens_in_new_window=true" frameborder="0"></iframe>
+<button class="buybutton" href="https://amzn.to/3dTy6SN">HK GAMING GK61 on Amazon</button>
 
 ### 5\. Cooler Master CK530
 
@@ -102,4 +102,4 @@ Cons:
 
 * USB cable not removable
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=techtopic05-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07N4D7PMJ&amp;asins=B07N4D7PMJ&amp;linkId=3620fb060a0ae6a917f8d0dcc1a784a9&amp;show_border=true&amp;link_opens_in_new_window=true" frameborder="0"></iframe>
+<button class="buybutton" href="https://amzn.to/3sajkPN">Cooler Master CK530 on Amazon</button>
