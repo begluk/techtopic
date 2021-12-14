@@ -100,6 +100,6 @@ Pros:
 
 Cons:
 
-* USB cable not removable![](/uploads/dwv8w5bz0c671.webp){: width="1080" height="1047"}
+* USB cable not removable
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=techtopic05-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07N4D7PMJ&amp;asins=B07N4D7PMJ&amp;linkId=3620fb060a0ae6a917f8d0dcc1a784a9&amp;show_border=true&amp;link_opens_in_new_window=true" frameborder="0"></iframe>
