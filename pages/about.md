@@ -8,12 +8,12 @@ We write blog posts about tech products, tutorials, and much more.
 
 We work hard to find products and write reviews about them. We search for user-generated reviews on many sites and try our best to compile a good review.
 
-We may get a commission from the products you buy through our Amazon links.
+TechTopic Team works hard to pick the best products for you, we spend a lot of work to review products and find good information about it. The site is supported by its audience, so we may get a commission from the sales we make.
 
 You can check out our socials here:
 
-[Instagram](https://instagram.com/tech_topic_)
+[<i class="fab fa-instagram"></i>Instagram](https://instagram.com/tech_topic_)
 
-[Youtube](https://www.youtube.com/channel/UCPFELz5VkpUfW157Ckp76Ag)
+[<i class="fab fa-youtube"></i>YouTube](https://www.youtube.com/channel/UCPFELz5VkpUfW157Ckp76Ag)
 
-[Tiktok](https://tiktok.com/@techtopic.org)
+[<i class="fab fa-tiktok"></i>TikTok](https://tiktok.com/@techtopic.org)
