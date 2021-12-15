@@ -3,6 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+{% if page.image %}
+<meta property="og:image" content="{{ page.image }}" />
+{% else %}
+<meta property="og:image" content="{{ site.logo }}" />
+{% endif %}
+    
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
 <title>{{ page.title }} | {{site.title}}</title>
