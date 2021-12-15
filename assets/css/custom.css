@@ -97,3 +97,11 @@ table tfoot td {
 .postimg {
 	max-height:500px;
 }
+
+.soc a:hover {
+	box-shadow: none;
+}
+
+.soc a {
+	box-shadow: none;
+}
