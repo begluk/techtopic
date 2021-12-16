@@ -12,8 +12,8 @@ TechTopic Team works hard to pick the best products for you, we spend a lot of w
 
 You can check out our socials here:
 
-<a href="https://instagram.com/tech_topic_" class="soc"><i class="fab fa-instagram"></i> Instagram</a>
+<a href="https://instagram.com/tech_topic_" id="soc"><i class="fab fa-instagram"></i> Instagram</a>
 
-<a href="https://www.youtube.com/channel/UCPFELz5VkpUfW157Ckp76Ag" class="soc"><i class="fab fa-youtube"></i> YouTube</a>
+<a href="https://www.youtube.com/channel/UCPFELz5VkpUfW157Ckp76Ag" id="soc"><i class="fab fa-youtube"></i> YouTube</a>
 
-<a href="https://tiktok.com/@techtopic.org" class="soc"><i class="fab fa-tiktok"></i> TikTok</a>
+<a href="https://tiktok.com/@techtopic.org" id="soc"><i class="fab fa-tiktok"></i> TikTok</a>
