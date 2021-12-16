@@ -3,6 +3,14 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
+#soc a:hover {
+	box-shadow: none;
+}
+
+#soc a {
+	box-shadow: none;
+}
+
 table {
   border: 1px solid #aaa;
   background-color: #eee;
