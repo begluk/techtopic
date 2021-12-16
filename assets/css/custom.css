@@ -3,12 +3,9 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-.soc :hover {
-	box-shadow: none;
-}
-
 .soc {
-	box-shadow: none;
+  color: black !important;
+  box-shadow: none !important;
 }
 
 table {
