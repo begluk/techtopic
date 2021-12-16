@@ -3,11 +3,11 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-#soc a:hover {
+.soc a:hover {
 	box-shadow: none;
 }
 
-#soc a {
+.soc a {
 	box-shadow: none;
 }
 
