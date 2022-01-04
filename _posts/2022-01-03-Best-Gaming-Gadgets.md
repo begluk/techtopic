@@ -56,6 +56,7 @@ Charging dock stations are the best solution for keeping your devices charged an
 Charging dock stations can be used with any device that uses a USB charging cable, including Android phones, iPhones and iPads. These devices have a built-in ability to recognize charging docks, so that the user doesn’t need to do anything in order for their device.
 
 [Charging Dock Stations 4-in-1 on Amazon](https://amzn.to/3qKCgm4)
+
 [Macally Airpod iPhone Apple Watch Charging Station on Amazon](https://amzn.to/3FPbnUd)
 
 ## 5. Unspillable cup
