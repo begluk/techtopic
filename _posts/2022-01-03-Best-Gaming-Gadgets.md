@@ -19,7 +19,7 @@ A cable clip is a simple, low-cost device that keeps cables organized. The main 
 
 Cable clips are used specifically for keeping wires from falling down in a tangled mess. Cable clips can also be used to keep them from getting damaged by sharp edges or corners. Cable clips will also prevent your wires from being stepped on or running into door frames and other hard objects.
 
-[PZOZ Cable Clips on Amazon](https://amzn.to/32KBj4X)
+<a class="buy" href="https://amzn.to/32KBj4X">PZOZ Cable Clips on Amazon</a>
 
 [SOULWIT 134Pcs Cable Management Kit on Amazon](https://amzn.to/3Hxcjx6)
 
