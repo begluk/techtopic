@@ -3,7 +3,7 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-.buy {
+/*.buy {
 	box-shadow:inset 0px 1px 0px 0px #cf866c;
 	background:linear-gradient(to bottom, #ff3333 5%, #de1111 100%);
 	background-color:#ff3333;
@@ -30,7 +30,7 @@ Just customize your theme here.
 	position:relative;
 	top:1px;
 }
-
+*/
 
 .soc {
   color: black !important;
