@@ -21,7 +21,7 @@ Cable clips are used specifically for keeping wires from falling down in a tangl
 
 <a class="buy" href="https://amzn.to/32KBj4X">PZOZ Cable Clips on Amazon</a>
 
-[SOULWIT 134Pcs Cable Management Kit on Amazon](https://amzn.to/3Hxcjx6)
+<a class="buy" href="https://amzn.to/3Hxcjx6">SOULWIT 134Pcs Cable Management Kit on Amazon</a>
 
 ## 2. Headphone Stand
 <img src="/assets/images/headphone-stand.jpg" class="postimg">
@@ -30,22 +30,23 @@ A headphone stand is a simple desktop item that helps you keep your desk organiz
 
 Headphone stands also prevent headphones from being damaged by accidental falls, since the headphones are suspended in mid-air instead of being placed on the desktop directly. This makes them ideal for home and office use alike.
 
-[New Bee Headphone Stand on Amazon](https://amzn.to/3pOavtv)
+<a class="buy" href="https://amzn.to/3pOavtv">New Bee Headphone Stand on Amazon</a>
 
-[RGB Headphone Stand with Wireless Charger on Amazon](https://amzn.to/34iG4TW)
+<a class="buy" href="https://amzn.to/34iG4TW">RGB Headphone Stand with Wireless Charger on Amazon</a>
 
-[Headphone Stand with USB Charger COZOO](https://amzn.to/3mQwb6e)
+<a class="buy" href="https://amzn.to/3mQwb6e">Headphone Stand with USB Charger COZOO on Amazon</a>
+
 
 ## 3. RGB Strip
 <img src="/assets/images/rgb-strip.jpg" class="postimg">
 
 A RGB strip is a flexible circuit with 12 segments that are capable of producing three colors: red, green and blue. Users can control the intensity of each color in order to create any color on the spectrum. The use of RGB strips in interior design has been growing recently, and for good reason. They are versatile, colorful and can be used in a variety of ways. They’re used for everything from lighting up the inside of your computer case to adding some extra colors to your home.
 
-[Govee 32.8ft LED Strip Lights on Amazon](https://amzn.to/3324YXq)
+<a class="buy" href="https://amzn.to/3324YXq">Govee 32.8ft LED Strip Lights on Amazon</a>
 
-[Govee 16.4ft LED Strip Lights on Amazon](https://amzn.to/3eJWaHY)
+<a class="buy" href="https://amzn.to/3eJWaHY">Govee 16.4ft LED Strip Lights on Amazon</a>
 
-[Easeking Smart LED Strip Lights 50ft on Amazon](https://amzn.to/3zj7bti)
+<a class="buy" href="https://amzn.to/3zj7bti">Easeking Smart LED Strip Lights 50ft on Amazon</a>
 
 ## 4. Charging Dock Station
 
@@ -55,9 +56,9 @@ Charging dock stations are the best solution for keeping your devices charged an
 
 Charging dock stations can be used with any device that uses a USB charging cable, including Android phones, iPhones and iPads. These devices have a built-in ability to recognize charging docks, so that the user doesn’t need to do anything in order for their device.
 
-[Charging Dock Stations 4-in-1 on Amazon](https://amzn.to/3qKCgm4)
+<a class="buy" href="https://amzn.to/3qKCgm4">Charging Dock Stations 4-in-1 on Amazon</a>
 
-[Macally Airpod iPhone Apple Watch Charging Station on Amazon](https://amzn.to/3FPbnUd)
+<a class="buy" href="https://amzn.to/3FPbnUd">Macally Airpod iPhone Apple Watch Charging Station on Amazon</a>
 
 ## 5. Unspillable cup
 
@@ -65,6 +66,6 @@ Charging dock stations can be used with any device that uses a USB charging cabl
 
 Unspillable cups are a new product that came out in response to the high number of spills that happen every day. They are designed to be spill-proof and unbreakable, and they start at $10 which is a pretty decent price for something so essential. They can prevent your expensive PC setup from being ruined from something as clumsy as a spill. These cups use suction to fimly attach themselves if you push them to the side. These can save you a real nightmare.
 
-[Mighty Mug on Amazon](https://amzn.to/330cYrV)
+<a class="buy" href="https://amzn.to/330cYrV">Mighty Mug on Amazon</a>
 
 
