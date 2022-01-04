@@ -47,4 +47,23 @@ A RGB strip is a flexible circuit with 12 segments that are capable of producing
 
 [Easeking Smart LED Strip Lights 50ft on Amazon](https://amzn.to/3zj7bti)
 
-## 4. 
+## 4. Charging Dock Station
+
+<img src="/assets/images/charging-dock-station.jpg" class="postimg">
+
+Charging dock stations are the best solution for keeping your devices charged and ready for use. They are a great way to organize your desk and keep all of your devices in one place. This can make it easier to find what you need when you need it, as well as preventing you from forgetting about your devices when they require charging.
+
+Charging dock stations can be used with any device that uses a USB charging cable, including Android phones, iPhones and iPads. These devices have a built-in ability to recognize charging docks, so that the user doesn’t need to do anything in order for their device.
+
+[Charging Dock Stations 4-in-1 on Amazon](https://amzn.to/3qKCgm4)
+[Macally Airpod iPhone Apple Watch Charging Station on Amazon](https://amzn.to/3FPbnUd)
+
+## 5. Unspillable cup
+
+<img src="/assets/images/unspillable-cup.jpg" class="postimg">
+
+Unspillable cups are a new product that came out in response to the high number of spills that happen every day. They are designed to be spill-proof and unbreakable, and they start at $10 which is a pretty decent price for something so essential. They can prevent your expensive PC setup from being ruined from something as clumsy as a spill. These cups use suction to fimly attach themselves if you push them to the side. These can save you a real nightmare.
+
+[Mighty Mug on Amazon](https://amzn.to/330cYrV)
+
+
