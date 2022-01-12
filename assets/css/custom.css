@@ -106,6 +106,6 @@ table tfoot td {
 	height: 100%; 
 }
 
-.postimg {
-	max-height:500px;
+.article-post img {
+	max-height: 500px;
 }
