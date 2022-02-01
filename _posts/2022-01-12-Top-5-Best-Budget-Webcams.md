@@ -37,6 +37,6 @@ The Razer Kiyo is an excellent camera for streaming. The main feature of the Raz
 
 The camera comes with a built in ring light and microphone, making it a really great option for streamers in this price range.
 
-[Razer Kiyo](https://amzn.to/3zyDrJn)
+[Razer Kiyo on Amazon](https://amzn.to/3zyDrJn)
 
 4. 
