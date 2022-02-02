@@ -10,7 +10,7 @@ Webcams are a mainstay of live streaming, but they're also useful for anyone who
 
 ## 1. Logitech C920S 
 
-<img src="assets/images/logitech-c920s.jpg">
+<img src="/assets/images/logitech-c920s.jpg">
 
 The **Logitech C920S** is one of the best web cameras available for this price range. It can capture excellent video at **Full HD (1080p)**, and has a variety of different features that make it ideal for many different applications. The camera is designed to be **flexible** in order to fit the needs of professionals who are going to use it in various situations. This camera is great for **video calling**, **working from home**, **streaming** and many other applications. It comes with a **privacy shutter** as well.
 
@@ -24,7 +24,7 @@ It’s easy to set up, and you don’t need a lot of computer knowledge to insta
 
 ## 2. Logitech Brio 4K
 
-<img src="assets/images/logitech-brio-4k.jpg">
+<img src="/assets/images/logitech-brio-4k.jpg">
 
 The **Logitech Brio 4K** webcam and its software is an excellent addition to the office environment. It easily connects to a laptop or desktop computer and offers features that are great for people who are looking for a quality video call experience. **4K video quality** ensures you are always going to have a crystal clear quality, making it excellent for **video calls**, **working from home**, or **streaming**.
 
@@ -39,7 +39,7 @@ The Logitech Brio 4K camera is simple to connect to any computer. All you have t
 
 ## 3. Razer Kiyo
 
-<img src="assets/images/razer-kiyo.jpg">
+<img src="/assets/images/razer-kiyo.jpg">
 
 The **Razer Kiyo** is an excellent camera for **streaming**. The main feature of the Razer Kiyo is its **excellent image quality**. It supports **Full HD (1080p)** and has wide angle lens that offers a viewing angle of up to 90 degrees horizontally. This allows you to cover more area with each shot. The camera also comes with built-in background replacement technology that enables you to change your background within **Razer Synapse software**. This is **great for streamers** who want to create more **professional looking videos** without having to spend a big amount of money on more expensive cameras.
 
@@ -56,9 +56,9 @@ The camera comes with a **built in ring light and microphone**, making it a real
 
 ## 4. Poly Studio P5
 
-<img src="assets/images/poly-studio-p5.jpg">
+<img src="/assets/images/poly-studio-p5.jpg">
 
-The **Poly Studio P5** is a **1080p HD** webcam with a **microphone** that is optimized for **video conferencing**. It is easy to set-up with its tripod mount and **monitor mounting clamp**. The webcam is portable with a rugged design that fits any aesthetic and works wherever you need to make video calls. The camera comes with a **privacy shutter** for peace of mind. The Poly Studio P5 web cam **is supported by an app**** that lets you customize your video settings for your unique environment and more. The camera has an **indicator light** telling you when the camera is on or ready to be used.
+The **Poly Studio P5** is a **1080p HD** webcam with a **microphone** that is optimized for **video conferencing**. It is easy to set-up with its tripod mount and **monitor mounting clamp**. The webcam is portable with a rugged design that fits any aesthetic and works wherever you need to make video calls. The camera comes with a **privacy shutter** for peace of mind. The Poly Studio P5 web cam **is supported by an app** that lets you customize your video settings for your unique environment and more. The camera has an **indicator light** telling you when the camera is on or ready to be used.
 
 - Tripod mount
 - Monitor clamp
@@ -70,7 +70,7 @@ The **Poly Studio P5** is a **1080p HD** webcam with a **microphone** that is op
 
 ## 5. Anker PowerConf C300
 
-<img src="assets/images/anker-powerconf-c300.jpg">
+<img src="/assets/images/anker-powerconf-c300.jpg">
 
 The **Anker PowerConf** C300 comes with great Full HD (1080p) quality at a smooth 60 FPS. It is a great choice for video conferencing, working from home, streaming and much more. It comes with AI low-light correcting features, ensuring your scene will always stay well lit even in low light conditions. It comes with active noise cancellation, making it great for uninterrupted video calling or working from home. It features a very wide Field of View (115°) which ensures that you can always fit into the frame. The Field of View is adjustable. Because of the wide FOV, it is great for conference rooms. The camera is permanently attached to a clip, which can be hooked to your laptop screen or monitor.
 
