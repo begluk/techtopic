@@ -136,6 +136,8 @@ small, .small {
 .hero {
     background: #ddd;
     padding: 5vh 5vw;
+    background-image: url(/assets/image/hero.jpg);
+    background-size: cover;
 }
 
 @media only screen and (max-width: 1024px) {
