@@ -614,3 +614,10 @@ span.navigation:before {
     transition: all.3s;
     opacity:.8;
 }
+
+ 
+.buy {
+  @extend .btn;
+  @extend .btn-outline-primary;
+  @extend .m-2;
+}
