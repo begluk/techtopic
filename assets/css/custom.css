@@ -32,6 +32,14 @@ Just customize your theme here.
 }
 */
 
+.nav-link {
+  color: inherit;
+}
+
+.nav-link:hover {
+  color: #ff8888;
+}
+
 .soc {
   color: black !important;
   box-shadow: none !important;
