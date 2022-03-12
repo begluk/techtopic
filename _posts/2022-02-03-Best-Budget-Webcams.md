@@ -20,7 +20,7 @@ It’s easy to set up, and you don’t need a lot of computer knowledge to insta
 - Dual Microphones
 - 1080p / 30 fps
 
-[Logitech C920S on Amazon](https://amzn.to/3JFifWo)
+[Logitech C920S on Amazon](https://amzn.to/3JFifWo){: .buy}
 
 ## 2. Logitech Brio 4K
 
@@ -35,7 +35,7 @@ The Logitech Brio 4K camera is simple to connect to any computer. All you have t
 - 4K / 30 fps
 - 1080p / 60 fps
 
-[Logitech Brio 4K on Amazon](https://amzn.to/3qJGU3B)
+[Logitech Brio 4K on Amazon](https://amzn.to/3qJGU3B){: .buy}
 
 ## 3. Razer Kiyo
 
@@ -52,7 +52,7 @@ The camera comes with a **built in ring light and microphone**, making it a real
 - 1080p / 30 fps
 - 720p / 60 fps
 
-[Razer Kiyo on Amazon](https://amzn.to/3zyDrJn)
+[Razer Kiyo on Amazon](https://amzn.to/3zyDrJn){: .buy}
 
 ## 4. Poly Studio P5
 
@@ -66,7 +66,7 @@ The **Poly Studio P5** is a **1080p HD** webcam with a **microphone** that is op
 - Privacy shutter
 - 1080p / 30 fps
 
-[Poly Studio P5 on Amazon](https://amzn.to/3FP3o9C)
+[Poly Studio P5 on Amazon](https://amzn.to/3FP3o9C){: .buy}
 
 ## 5. Anker PowerConf C300
 
@@ -80,4 +80,4 @@ The **Anker PowerConf** C300 comes with great Full HD (1080p) quality at a smoot
 - Custom software
 - 1080p / 60 fps
 
-[Anker PowerConf C300 on Amazon](https://amzn.to/3sOIJyV)
+[Anker PowerConf C300 on Amazon](https://amzn.to/3sOIJyV){: .buy}
