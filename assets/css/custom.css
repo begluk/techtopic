@@ -32,12 +32,6 @@ Just customize your theme here.
 }
 */
 
-.buy {
-  @extend .btn;
-  @extend .btn-outline-primary;
-  @extend .m-2;
-}
-
 .nav-link {
   color: inherit;
 }
