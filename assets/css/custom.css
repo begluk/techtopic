@@ -95,7 +95,7 @@ table tfoot td {
   font-size: 14px;
 }
 
-.article-post a:visited {
+.article-post a:visited:not([class]) {
     color: purple;
 }
 
