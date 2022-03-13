@@ -4,6 +4,7 @@ layout: post
 title: 4 Easy Ways Anyone Can Earn Passive Income Online in 2021
 image: assets/images/money.jpg
 tags: [Money, Income, Free]
+categories: Tutorials
 ---
 
 This guide will include a few ways to make passive income online, even for those who are under 18. Sounds to good to be true, but it isn't. In 2021 There are many ways to earn passive money, which can stack up big sums in the future. We will list 4 easy methods. It's most effective to use all of them at once.
