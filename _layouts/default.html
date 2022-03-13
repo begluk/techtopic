@@ -54,7 +54,7 @@ gtag('config', '{{site.ganalytics}}');
           </a> | 
           
 
-          <div class="d-flex align-items-center">
+          <div class="d-flex align-items-center me-5">
             
             <!--<span class="p-3 ml-3 text-muted small">Follow</span> -->
 
@@ -82,7 +82,7 @@ gtag('config', '{{site.ganalytics}}');
           </button>
           
           <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ms-5 font-weight-bold d-flex align-items-center">
+            <ul class="navbar-nav font-weight-bold d-flex align-items-center">
               {% for item in site.data.menus.topmenu %}
               <li class="nav-item">
                 <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
