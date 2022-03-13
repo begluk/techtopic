@@ -3,6 +3,7 @@ published: true
 layout: post
 title: Top 5 Best Budget Mechanical Keyboards as of 2022
 image: assets/images/Mechanical-Keyboard.jpg
+categories: Reviews
 tags:
   - Mechanical
   - Keyboard
