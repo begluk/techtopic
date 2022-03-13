@@ -7,11 +7,9 @@ comments: false
 
 {% for post in site.categories.Reviews %}
  <a class="row p-0 border rounded h-5" href="{{ post.url }}">
-  <div class="p-0">
-   <div class="p-0">
-    <img class="p-0 img-fluid" src="/{{ post.image}}" style="contain: content;height: 10em;">
-   </div>
-   <p>{{ post.title }}</p>
+  <div class="row p-0">
+   <div class="col p-0 ratio ratio-16x9"><img class="p-0 img-fluid" src="/{{ post.image}}" style="contain: content;height: 10em;"> </div>
+   <div class="col"><p>{{ post.title }}</p></div>
   </div>
 </a>
 {% endfor %}
