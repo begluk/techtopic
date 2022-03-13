@@ -4,6 +4,7 @@ layout: post
 title: How to set up a Minecraft server for free without port forwarding [2022]
 image: assets/images/Minecraft.jpg
 tags: [Mechanical, Keyboard, PC, Gaming]
+categories: Tutorials
 ---
 
 We've all been there. Minecraft servers are somewhat of a hassle to set up, especially if you want it hosted for free, on your own machine. Port forwarding varies from router to router, making it difficult for some people to set it up. And even if you do everything correctly, it may not work. So we wrote this tutorial to solve that problem once and for all - How to host a Minecraft server for free, without port forwarding at all.
