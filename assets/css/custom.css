@@ -2,7 +2,21 @@
 Don't want to use sass and simply modify the stylesheet in the old css fashion? 
 Just customize your theme here.
 ================================================== */
+[data-theme="dark"] body {
+	background: #222;
+}
 
+[data-theme="dark"] .bg-light {
+	background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+	background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+	background-color: #eee !important;
+}
 /*.buy {
 	box-shadow:inset 0px 1px 0px 0px #cf866c;
 	background:linear-gradient(to bottom, #ff3333 5%, #de1111 100%);
