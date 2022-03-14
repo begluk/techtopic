@@ -92,7 +92,7 @@ gtag('config', '{{site.ganalytics}}');
                   <a class="nav-link dropdown-toggle px-3 {% if item.class %}{{item.class}}{% endif %}"  href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Categories
                   </a>
-                  <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                  <ul class="dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
                   {% for item in site.data.menus.categories %}
                       <li class="nav-item">
                         <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
