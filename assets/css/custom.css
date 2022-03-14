@@ -42,7 +42,7 @@ Just customize your theme here.
 }
 
 .nav-link:focus {
-  color: inherit;
+  color: #ff3333;
 }
 
 .soc {
