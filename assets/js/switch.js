@@ -20,11 +20,11 @@
 
     document.body.classList.add("bg-dark");
 
-    if (document.body.classList.contains("text-dark")) {
+    /*if (document.body.classList.contains("text-dark")) {
       document.body.classList.replace("text-dark", "text-light");
     } else {
       document.body.classList.add("text-light");
-    }
+    }*/
     
     // set light switch input to true
     if (! lightSwitch.checked) {
@@ -44,11 +44,11 @@
 
     document.body.classList.add("bg-light");
 
-    if (document.body.classList.contains("text-light")) {
+    /*if (document.body.classList.contains("text-light")) {
       document.body.classList.replace("text-light", "text-dark");
     } else {
       document.body.classList.add("text-dark");
-    }
+    }*/
     
     if (lightSwitch.checked) {
       lightSwitch.checked = false;
