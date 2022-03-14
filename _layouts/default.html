@@ -37,7 +37,7 @@ gtag('config', '{{site.ganalytics}}');
 </head>   
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{ layout }}">
+<body class="{{ layout }} bg-light">
 
     
 <!-- Menu Navigation
@@ -59,17 +59,17 @@ gtag('config', '{{site.ganalytics}}');
             
             <!--<span class="p-3 ml-3 text-muted small">Follow</span> -->
 
-            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.youtube}}">
+            <a class="d-inline-block social-icon text-dark" target="_blank" href="{{site.social.youtube}}">
                 <i class="fab fa-youtube"></i>
             </svg> 
             </a>
             
-            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.instagram}}">
+            <a class="d-inline-block social-icon text-dark" target="_blank" href="{{site.social.instagram}}">
               <i class="fab fa-instagram"></i>
             </svg>
             </a>
       
-            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.tiktok}}">
+            <a class="d-inline-block social-icon text-dark" target="_blank" href="{{site.social.tiktok}}">
               <i class="fab fa-tiktok"></i>
             </svg>
             </a>
@@ -77,12 +77,12 @@ gtag('config', '{{site.ganalytics}}');
           </div>
     
           <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-three-dots-vertical" viewBox="0 0 16 16">
+            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-three-dots-vertical text-dark" viewBox="0 0 16 16">
               <path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
             </svg>
           </button>
           
-          <div class="collapse navbar-collapse" id="navbarResponsive">
+          <div class="collapse navbar-collapse text-dark" id="navbarResponsive">
             <ul class="navbar-nav font-weight-bold d-flex align-items-center">
               {% for item in site.data.menus.topmenu %}
               <li class="nav-item">
