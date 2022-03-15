@@ -38,7 +38,7 @@ Both chips come with 8GB of RAM and either 128GB or 256GB of storage, depending 
     <div class="col-md">
       <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
         <div class="align-items-start bg-primary rounded-top text-white text-center font-weight-bold p-1">Galaxy S22 Ultra</div>
-        <img src="/assets/images/s22-ultra.jpg">
+        <img class="p-2" src="/assets/images/s22-ultra.jpg">
         NordVPN
         <a class="btn btn-outline-primary m-2 col-11" href="https://amzn.to/3q85Imx">See Pricing ></a>
       </div>
@@ -46,7 +46,7 @@ Both chips come with 8GB of RAM and either 128GB or 256GB of storage, depending 
     <div class="col-md">
       <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
         <div class="align-items-start bg-primary rounded-top text-white text-center font-weight-bold p-1">Galaxy S22+</div>
-        <img src="/assets/images/s22plus.jpg">
+        <img class="p-2" src="/assets/images/s22plus.jpg">
         NordVPN
         <a class="btn btn-outline-primary m-2 col-11" href="https://amzn.to/37s2NOR">See Pricing ></a>
       </div>
@@ -54,7 +54,7 @@ Both chips come with 8GB of RAM and either 128GB or 256GB of storage, depending 
         <div class="col-md">
       <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
         <div class="align-items-start bg-primary rounded-top text-white text-center font-weight-bold p-1">Galaxy S22</div>
-        <img src="/assets/images/galaxy-s22.png">
+        <img class="p-2" src="/assets/images/galaxy-s22.png">
         NordVPN
         <a class="btn btn-outline-primary m-2 col-11" href="https://amzn.to/3u2Udhh">See Pricing ></a>
       </div>
