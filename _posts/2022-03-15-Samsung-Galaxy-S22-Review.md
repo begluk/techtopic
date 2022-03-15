@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Samsung Galaxy S22 Review
 categories: Reviews
-img: /assets/images/s22.webp
+image: /assets/images/s22.webp
 ---
 
 In February, Samsung unveiled the Galaxy S22 series, which includes three models: the normal Galaxy S22, the Galaxy S22 Plus, and the Galaxy S22 Ultra.The Galaxy S22 Ultra has gotten the most interest, owing to the fact that it's another Note-style phone, and it's been a year and a half since the last Galaxy Note phones reached shop shelves.The entry-level Galaxy S22, with a starting price of $799.99, is the one to get if you want a top-tier Android phone without spending over a thousand dollars. 
