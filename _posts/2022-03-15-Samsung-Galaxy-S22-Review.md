@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 title: Samsung Galaxy S22 Review
 categories: Reviews
 img: /assets/images/s22.webp
