@@ -4,7 +4,7 @@ layout: post
 title: Top 5 Best Budget Gaming Headsets as of December 2021
 image: assets/images/Gaming-Headset.jpg
 tags: [headset, pc, gaming]
-categories: Reviews
+categories: Top5
 ---
 
 A good headset is essential to every gamer. But not all of us have the money to spend on good gaming headsets, so TechTopic brings you the Top 5 best budget headsets. The most important qualities of a headset are comfort, audio quality, and microphone quality. We have assured you that all of the headsets listed below have those qualities and that you won't fool yourself if you buy either one of them.
