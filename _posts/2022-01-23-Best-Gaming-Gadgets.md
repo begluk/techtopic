@@ -4,7 +4,7 @@ layout: post
 title: Top 5 Gaming Setup Gadgets to Make Your Setup Shine
 image: assets/images/gadgets.jpg
 tags: [Gaming, Setup, Gadgets]
-categories: Reviews
+categories: Top5
 ---
 
 The perfect gaming setup is a unique combination of hardware and software. Gamers are constantly looking for ways to enhance their experience, whether it be by purchasing the latest controller or graphics card, or by finding new games that provide an intense and immersive gameplay experience.
