@@ -4,7 +4,7 @@ layout: post
 title: Top 5 Best Webcams
 image: assets/images/webcams.jpg
 tags: [Gaming, Video Calling, Webcam, Streaming, Work from home]
-categories: Reviews
+categories: Top5
 ---
 
 Webcams are a mainstay of live streaming, but they're also useful for anyone who wants to make video calls and chat with family, friends, or business associates. Since there are so many webcams out there, we've narrowed the field down to the best five. They are a great tool to use when you want to visually connect with your viewers. With the growing importance of online video, a webcam can help you strengthen your online presence. A good webcam lets you make high-quality videos, which is crucial to making a positive first impression with your viewers. Some webcams have built-in microphones and even offer special features that let you record audio separately from the video so that you can easily edit it out later. Picking the right one can be tricky, so we've rounded up the best webcams for streaming and recording video chats.
