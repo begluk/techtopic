@@ -30,3 +30,6 @@ footermenu:
 
 - title: Contact
   url: "contact/"
+  
+- title: About
+  url: "about/"
