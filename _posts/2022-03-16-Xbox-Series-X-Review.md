@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Xbox Series X Review
-image: seriesx.jpg
+image: assets/images/seriesx.jpg
 ---
 
 On November 10, 2020, Microsoft unveiled the Xbox Series X. The console solidified itself as the "best Xbox of all times", it was a leap forward in console tech, with hardware that was much better than previous versions. The Xbox Series X comes at a price of $500, $200 more than it's smaller and more budget friendly counterpart, the Xbox Series S. It's capable of 120fps gameplay, assuming your TV supports that high of a framerate. The targeted resolution is 4K at 60fps, making gameplay crisp and smooth. The Xbox measures at 15.1 x 15.1 x 30.1 centimeters, making it look quite bulky. It's easy to mistake it for a small factor PC. The Xbox Series X also has substantially faster loading times than previous versions. 
