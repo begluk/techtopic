@@ -1,0 +1,14 @@
+---
+title: "Top 5"
+layout: default
+permalink: "/tutorials/"
+---
+
+<h4 class="mt-5 mb-4 pb-2 border-bottom"><span class="text-capitalize small font-weight-bold">Top 5</span></h4>
+<div class="row">
+  {% for post in site.categories.Top5 %}
+    <div class="col-md-4 mb-5">
+      {% include postbox.html %}
+    </div>
+  {% endfor %}
+</div>
