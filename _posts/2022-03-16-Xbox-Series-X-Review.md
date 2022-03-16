@@ -30,14 +30,15 @@ As far as I/O goes, the Xbox has as many ports as you need. It has only one USB 
 
 The Xbox Series X sports a Custom AMD Zen 2 octa core CPU at 3.8GHz. It has 16GB of RAM which is much more than enough for gaming on a console. The GPU is RDNA 2 based, and it's performance comes at an impressive 12 teraflops. These numbers alone mean nothing, so let's talk gaming. All tested games run excellent on the Xbox Series X. The console utilizes dynamic resolution, switching between 4K and 1440p mid-game to keep a steady framerate. It's not even noticeable under normal use. You should not worry about game performance if you buy this console.
 
-| Price              | $500, £449                        | $300, £249                       |   |   |
-|--------------------|-----------------------------------|----------------------------------|---|---|
-| Processor          | Custom AMD Zen 2, 8-core, 3.8GHz  | Custom AMD Zen 2, 8-core, 3.8GHz |   |   |
-| GPU                | AMD RDNA 2, 12 teraflops, 1.8 GHz | AMD RDNA 2, 4 teraflops, 1.6 GHz |   |   |
-| RAM                | 16GB                              | 10GB                             |   |   |
-| Storage            | 1TB                               | 512GB                            |   |   |
-| Display (Targeted) | 4K, 60 fps                        | 1440p, 60 fps                    |   |   |
-| Display (Max)      | 8K, 120 fps                       | 1440p, 120 fps                   |   |   |
+|                    |           Xbox Series X           |           Xbox Series S          |
+|:------------------:|:---------------------------------:|:--------------------------------:|
+| Price              | $500, £449                        | $300, £249                       |
+| Processor          | Custom AMD Zen 2, 8-core, 3.8GHz  | Custom AMD Zen 2, 8-core, 3.8GHz |
+| GPU                | AMD RDNA 2, 12 teraflops, 1.8 GHz | AMD RDNA 2, 4 teraflops, 1.6 GHz |
+| RAM                | 16GB                              | 10GB                             |
+| Storage            | 1TB                               | 512GB                            |
+| Display (Targeted) | 4K, 60 fps                        | 1440p, 60 fps                    |
+| Display (Max)      | 8K, 120 fps                       | 1440p, 120 fps                   |
 
 <div class="container">
   <div class="row gx-3">
