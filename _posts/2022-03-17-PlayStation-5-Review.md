@@ -27,7 +27,7 @@ For this “killing machine” Sony put some serious effort.
 It comes with an 8-core AMD Zen 2 (3.5 GHz) CPU, which in combination with  10.3 teraflop RDNA 2 GPU and 16GB of RAM just smash everything you put out for this beast. When we talk about storage, it comes with an 825GB SSD, which can be too small for someone, but there is always an option for an upgrade in the look of an external SSD. It has USB type A and C in front, and in the back, it has SuperSpeed USB type A, an Ethernet jack, and HDMI 2.1 as well as an AC adapter. Its interface just runs so smooth on this, as well as there is a 120Hz option. In the end, if you find yourselves buying this console you will just enjoy it as we did.
 
 
-|            | Sony PlayStation 5                      |
+|            | PlayStation 5                           |
 |:----------:|:---------------------------------------:|
 |    Price   | $499 (standard), $399 (Digital Edition) |
 | CPU        | 3.5GHz, 8-core AMD Zen 2                |
@@ -39,4 +39,21 @@ It comes with an 8-core AMD Zen 2 (3.5 GHz) CPU, which in combination with  10.3
 | Size       | 15.4 x 10.2 x 4.1 inches                |
 | Weight     | 9.9 pounds                              |
 
-
+<div class="container">
+  <div class="row gx-3">
+    <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">PlayStation 5</div>
+        <img class="p-2" src="/assets/images/ps5.jpg">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/36tAqiH">See Pricing ></a>
+      </div>
+    </div>
+    <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">PlayStation 5 Digital</div>
+        <img class="p-2" src="/assets/images/ps5d.jpg">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/3idY71d">See Pricing ></a>
+      </div>
+    </div>
+  </div>
+</div>
