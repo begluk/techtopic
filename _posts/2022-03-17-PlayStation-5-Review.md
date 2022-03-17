@@ -3,7 +3,7 @@ layout: post
 published: true
 title: PlayStation 5 Review
 categories: Reviews
-image: ps5.webm
+image: ps5.webp
 ---
 
 
