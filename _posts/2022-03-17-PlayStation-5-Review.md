@@ -7,8 +7,7 @@ image: assets/images/ps5.webp
 ---
 
 
-In November 2020, Sony released PS5. The console itself is powerful and well designed. In comparison to the older generation of PlayStation it brings new and more powerful hardware, so gaming In 4K and 120 fps will be easier than ever. The only bad thing we found in design is that console can be a little too big for some setups, but ultra-fast SSD a![50](https://user-images.githubusercontent.com/93347720/158860713-0ce36dd1-62cc-4cc6-b5d5-ecc73f5a2d3a.jpg)
-nd powerful cooling system justify that. Now about the interface, it is clean and user-friendly. We found no problem navigating around, and were pleasantly surprised with its simplicity, but still keeping that gaming look. It goes for $499.99, which is a pretty fair price. But if it’s still a little too much for your budget, there is a PS5 digital edition that comes without drive, but for only $399.99. 
+In November 2020, Sony released PS5. The console itself is powerful and well designed. In comparison to the older generation of PlayStation it brings new and more powerful hardware, so gaming In 4K and 120 fps will be easier than ever. The only bad thing we found in design is that console can be a little too big for some setups, but ultra-fast SSD and powerful cooling system justify that. Now about the interface, it is clean and user-friendly. We found no problem navigating around, and were pleasantly surprised with its simplicity, but still keeping that gaming look. It goes for $499.99, which is a pretty fair price. But if it’s still a little too much for your budget, there is a PS5 digital edition that comes without drive, but for only $399.99. 
 
 ## Games
 
