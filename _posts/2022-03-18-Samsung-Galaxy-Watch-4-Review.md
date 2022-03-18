@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Samsung Galaxy Watch 4 Review
 image: assets/images/watch4.jpg
+categories: Reviews
 ---
 
 Samsung Galaxy Watch 4 is a continuation of Samsung's smart watch line; this watch was created with Google's assistance. The watch runs on Wear OS, which has been upgraded and renamed One UI Watch 3. The Samsung Galaxy Watch 4 does not have any significant software or hardware advancements, but that does not make it a terrible device. Furthermore, the watch has an excellent design and is suited for usage because of the features it offers. Samsung's concept was to showcase a single top watch that included the Tizen platform and Wear OS. They have achieved this in certain aspects of the watch, but not in others; one of these issues may be the watch's compatibility, which can be problematic for some users. However, there are benefits such as a long battery life and a stylish and comfy design. We'll go through each feature individually in the next review.
