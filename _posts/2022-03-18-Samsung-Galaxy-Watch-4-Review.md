@@ -44,21 +44,21 @@ The Samsung Galaxy Watch 4 is presently available worldwide, with prices varying
   <div class="row gx-3">
     <div class="col-md">
       <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
-        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">Galaxy Watch 4 40mm Bluetooth </div>
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">40mm Bluetooth </div>
         <img class="p-2" src="https://user-images.githubusercontent.com/93347720/159077890-9e252286-9f78-4b0a-89bb-3996dcf710c4.jpg">
         <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/367ZVGw">See Pricing ></a>
       </div>
     </div>
         <div class="col-md">
       <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
-        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">Galaxy Watch 4 44mm Bluetooth </div>
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">44mm Bluetooth </div>
         <img class="p-2" src="https://user-images.githubusercontent.com/93347720/159077890-9e252286-9f78-4b0a-89bb-3996dcf710c4.jpg">
         <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/3CV6TuL">See Pricing ></a>
       </div>
     </div>
         <div class="col-md">
       <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
-        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">Galaxy Watch 4 44mm LTE </div>
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">44mm LTE </div>
         <img class="p-2" src="https://user-images.githubusercontent.com/93347720/159077890-9e252286-9f78-4b0a-89bb-3996dcf710c4.jpg">
         <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/3JnfhW4">See Pricing ></a>
       </div>
