@@ -16,6 +16,6 @@ You can check out our socials here:
 
 <a href="https://tiktok.com/@techtopic.org" class="soc"><i class="fab fa-tiktok"></i> TikTok</a>
 
-<img src="https://user-images.githubusercontent.com/93347720/159367671-ecd28e05-e3f2-4ca9-bfff-1de7e620382b.jpg" class="img-thumbnail">
+<img src="https://user-images.githubusercontent.com/93347720/159367671-ecd28e05-e3f2-4ca9-bfff-1de7e620382b.jpg" style="max-height: 200px;">
 
-<img src="https://user-images.githubusercontent.com/93347720/159367675-470c78ad-0441-444a-8cbb-7c44e1857f15.jpg" class="img-thumbnail">
+<img src="https://user-images.githubusercontent.com/93347720/159367675-470c78ad-0441-444a-8cbb-7c44e1857f15.jpg" style="max-height: 200px;">
