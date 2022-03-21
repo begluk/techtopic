@@ -15,7 +15,7 @@ Display
 
 Speaking of the screen itself, the iPhone SE has a 4.7-inch screen, but nothing special. Since today we can see much better screens from various phone manufacturers, the iPhone SE does not seem anything special when it comes to the screen because it has an LCD of only 60Hz. However, of course, the screen serves a purpose and is far from being bad. It can be used to surf the web, playing games as well as watching videos.  As far as iPhone SE protection is concerned, there is no need to worry so much. Since the iPhone 8 had problems with breakage, this is not the case with the iPhone SE 2022. Although it has the same body as the iPhone 8, it has a front and back made of the same type of stand used on the rear of the iPhone 13. But it would not be desirable to get yourself silicone protection because your phone doesn't have Apple's protection technology called "Ceramic Shield".
 
-{% include image.html src="assets/images/iphonedesign.jpg" alt="samsung galaxy a53 5g design" %}
+{% include image.html src="{{site.baseurl}}/assets/images/iphonedesign.jpg" alt="iphone se 2022 design" %}
 
 ## Performance and specifications
 
