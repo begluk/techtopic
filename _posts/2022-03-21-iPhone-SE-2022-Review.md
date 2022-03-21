@@ -38,7 +38,7 @@ It was not hard to realize this idea, which consists of fitting a new powerful A
 
 Due of its compact size, the battery within the iPhone SE 2022 may cause issues for some users and will not last long. Although the A15 Bionic has a big impact on the phone's performance, it will not be useful in this situation. If you use the phone frequently, as well as if you play games on it, the battery will quickly be depleted. If you are a frequent user, however, you should not be concerned because this phone will match your needs.  Another issue is the poor charging speed, as this phone only has an 18W charger, which is disappointing given that Android phones have much faster chargers. Apple's new MagSafe chargers are also incompatible.
 
-##Pricing
+## Pricing
 
 The iPhone SE 2022 is now available in the United States, the United Kingdom, and Australia. Unlike its predecessor, the price has been raised due to enhancements and only the A15 Bionic chip. However, when it comes to Apple's 5G phones, this still makes it the most cheap. The iPhone SE costs $429, but we only get 64GB of storage, which may not be enough for some, so you can upgrade to a 128GB model for $479 or a 256GB model for $579. However, we propose that you consider purchasing the iPhone 13 model, which comes with a 128 GB base model. This model is also available in only three colors:  Starlight, Midnight, and Red. If you decide to buy, the best offers on iPhone SE 2022 may be seen below.
 
