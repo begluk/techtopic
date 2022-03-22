@@ -21,7 +21,7 @@ The Surface Pro 8's design is quite an improvement over the previous revisions, 
 
 One of the main selling points of this device is the display. The 13" PixelSense™ Flow Display has a higher resolution than the previous version, as to keep the image crisp and clear with the bigger screen size. It still has the same pixel density of 267 PPI.  For the first time, the Surface Pro lineup got into the high refresh rate market with a 120 Hz display, but 120 Hz is pretty much considered standard now. The tablet supports GPU Ink Acceleration which optimizes the Windows Ink experience quite a lot. It also comes with Dolby Vision® support for all of those interested. Adaptive color support is finally available, improving both image quality and battery life. Microsoft advertises color brightness to be at 450 nits. Microsoft still uses IPS technology, which is more color accurate, but the blacks are not completely black. Overall the display is well fitted for all kinds of workloads, and the experience does not degrade with different viewing angles. 
 
-## Performance
+## Specifications
 
 {% include image.html src="https://user-images.githubusercontent.com/93347720/159556509-aed21995-c680-4bcb-b6a0-c71bebae1019.jpg" alt="surface pro 8 gaming" %}
 
@@ -38,6 +38,26 @@ The device uses LPDDR4x RAM and comes in 8GB, 16GB, and 32GB versions. Although 
 #### Storage
 
 As for storage goes, the Surface Pro 8 is available in 512GB and 1TB versions. It also comes with a removable SSD slot that supports 128GB and 256GB drives.
+
+|              | Microsoft Surface Pro 8                                                                                                        |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------|
+| OS           | Windows 11 Home Windows 11 Pro (commercial) Windows 10 Pro (commercial)                                                        |
+| Processor    | Consumer: 11th Gen Intel Core i5-1135G7 Core i7-1185G7 Commercial: 11th Gen Intel Core i3-1115G4 Core i5-1145G7 Core i7-1185G7 |
+| RAM          | 8GB, 16GB, 32GB LPDDR4x                                                                                                        |
+| Graphics     | Intel UHD (i3) Intel Iris Xe (i5, i7)                                                                                          |
+| Storage      | 128GB, 256GB SSD (Wi-Fi, LTE) 512GB, 1TB SSD (Wi-Fi)                                                                           |
+| Display      | 13 inches 2880x1920 267 PPI 3:2 aspect ratio Up to 120Hz (60Hz default) Touch                                                  |
+| Ports        | Two Thunderbolt 4 Surface Connect 3.5mm audio                                                                                  |
+| Audio        | Dual 2W stereo speakers Dolby Atmos Dual far-field studio mics                                                                 |
+| Connectivity | Wi-Fi 6 Bluetooth 5.1 Snapdragon X20 LTE eSIM support                                                                          |
+| Camera       | IR camera Front-facing 5MP (1080p) Rear-facing 10MP (1080p, 4K)                                                                |
+| Keyboard     | Surface Pro Signature keyboard Not included                                                                                    |
+| Touchpad     | Precision                                                                                                                      |
+| Pen          | Surface Slim Pen 2 Not included                                                                                                |
+| Security     | TPM 2.0 IR camera                                                                                                              |
+| Battery      | Up to 16 hours                                                                                                                 |
+| Dimensions   | 11.3 x 8.2 x 0.37 inches (287mm x 208.3mm x 9.4mm)                                                                             |
+| Weight       | 1.96 pounds (891g)                                                                                                             |
 
 ## Battery
 
