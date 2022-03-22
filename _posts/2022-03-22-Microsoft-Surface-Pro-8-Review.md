@@ -1,5 +1,5 @@
 ---
-title: Microsfot Surface Pro 8 review
+title: Microsoft Surface Pro 8 Review
 categories: Reviews
 layout: post
 published: true
