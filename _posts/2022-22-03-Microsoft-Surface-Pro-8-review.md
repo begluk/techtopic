@@ -60,3 +60,29 @@ The Surface Pro 8 comes with 2 USB-C ports with USB 4.0 and Thunderbolt 4 capabi
 The release date of this device was not a coincidence. With the release of Windows 11, so did the Surface Pro 8 come out. It comes with Windows 11 Home, preloaded with all your beloved office 365 apps, and a 1 month free trial for Microsoft 365 Family. It also came preloaded with the Xbox app. Oh and, they also include a 1 month Xbox Game Pass Ultimate trial.
 
 Overall the Microsoft Surface 8 met our expectations of what was next, although the release of Windows 11 was kind of unexpected. We hope that this post helped you decide whether the Surface Pro 8 is for you. If so, the purchase links are right here:
+
+<div class="container">
+  <div class="row gx-3">
+    <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">8GB 256GB i5</div>
+        <img class="p-2" src="https://user-images.githubusercontent.com/93347720/159558041-90dc3009-71a6-41ef-a146-e873cd37fd79.jpg">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/3ip7AD4">See Pricing ></a>
+      </div>
+    </div>
+        <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">16GB 512GB i7</div>
+        <img class="p-2" src="https://user-images.githubusercontent.com/93347720/159558041-90dc3009-71a6-41ef-a146-e873cd37fd79.jpg">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/3wtKqDR">See Pricing ></a>
+      </div>
+    </div>
+        <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">32GB 1TB i7</div>
+        <img class="p-2" src="https://user-images.githubusercontent.com/93347720/159558041-90dc3009-71a6-41ef-a146-e873cd37fd79.jpg">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://amzn.to/3qsoBAG">See Pricing ></a>
+      </div>
+    </div>
+  </div>
+</div>
