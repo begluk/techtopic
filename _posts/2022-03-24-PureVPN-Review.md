@@ -58,5 +58,6 @@ PureVPN offers very low and affordable costs for everyone, as it breaks several 
 - 1-year plan: **$2.99/month**
 - Monthly: **$10.95/month**
 
-If you want to purchase PureVPN purchase it via the buttons below to get up to 82% off on your subscription plan.
+If you want to purchase PureVPN purchase it via the button below to get up to 82% off on your subscription plan.
 
+<a href="https://billing.purevpn.com/aff.php?aff=49452" class="buy"> Get 82% OFF for PureVPN </a>
