@@ -60,4 +60,20 @@ PureVPN offers very low and affordable costs for everyone, as it breaks several 
 
 If you want to purchase PureVPN purchase it via the button below to get up to 82% off on your subscription plan.
 
-<a href="https://billing.purevpn.com/aff.php?aff=49452" class="buy"> Get 82% OFF for PureVPN </a>
+<div class="container">
+  <div class="row gx-3">
+    <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">PureVPN</div>
+        <img class="p-2" src="https://user-images.githubusercontent.com/93347720/160010365-a782c966-cb73-4c66-a458-e06ae1200b58.png">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://billing.purevpn.com/aff.php?aff=49452">GET 82% OFF ></a>
+      </div>
+    </div>
+    <div class="col-md">
+    </div>
+  </div>
+</div>
+
+
+
+<a href="" class="buy"> Get 82% OFF for PureVPN </a>
