@@ -73,7 +73,3 @@ If you want to purchase PureVPN purchase it via the button below to get up to 82
     </div>
   </div>
 </div>
-
-
-
-<a href="" class="buy"> Get 82% OFF for PureVPN </a>
