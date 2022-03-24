@@ -1,0 +1,87 @@
+---
+published: true
+layout: post
+image: assets/images/n7.webp
+title: NZXT N7 B550 Motherboard review
+catgories: Reviews
+---
+
+When we talk about the NZXT motherboard, they are very good. In the N7 series, we have Z390, Z490, Z590, and B550 which we will review today. NZXT is making great motherboards in general, but B550 is the only one for AMD processors in the N7 series. Their motherboards are mainly distinguished by good and simple design, but also good performance. B550 is going on for $249.99.
+
+When we talk about features, it includes PCIe 4.0 support, Wi-Fi 6E capability, six SATA ports, and a lot more USB ports. The N7 B550 power delivery supports the flagship Ryzen 9 5950X during stock operations and while overclocked. Wi-Fi 6E is the main reason this motherboard was late to market, and it&#39;s the thing that sets it apart from other boards. When we talk about performance N7 B550 did well in all of our tests.
+
+When we talk about accessories it includes:
+- 4 SATA cables
+- Wi-Fi antenna
+- 2 Screws for M.2 sockets
+
+# Manual
+
+When we talk about design, this board is one of the best designs in its price range. It comes In 2 colors, white and black. It comes with armor around so it wouldn&#39;t get damaged. One thing it&#39;s lacking is RGB, for that you would need to go look in other NZXT series. But even without RGB, it keeps an original and simple look, which is again enough for us.
+
+On the back panel we have:
+
+- UART header
+- 3-pin RGB and 4-pin RGB headers
+- (3) USB 2.0 headers
+- (3) System fan headers
+- Dr. Debug LED
+- Reset/Power buttons
+- Front panel header
+
+B550 is ATX format. It supports 128 GB of RAM, with DDR4. It comes with an AM4 socket and it handled Ryzen 9 5950X without any problems.
+
+| Socket | AM4 |
+| --- | --- |
+| Chipset | B550 |
+| Form Factor | ATX |
+| Voltage Regulator | 16 Phase (12+2+2, 50A MOSFETs for Vcore) |
+| Video Ports | HDMI (v2.1) |
+| USB Ports | (1) USB 3.2 Gen 2, Type-C (10 Gbps) |
+|
+ | (3) USB 3.2 Gen 2, Type-A (10 Gbps) |
+|
+ | (4) USB 3.2 Gen 1, Type-A (5 Gbps) |
+|
+ | (2) USB 2.0 |
+| Network Jacks | (1) 2.5 GbE |
+| Audio Jacks | (5) Analog + SPDIF |
+| Legacy Ports/Jacks | ✗ |
+| Other Ports/Jack | ✗ |
+| PCIe x16 | (1) v4.0 (x16) |
+|
+ | (1) v3.0 (x4) |
+| PCIe x8 | ✗ |
+| PCIe x4 | ✗ |
+| PCIe x1 | (2) v3.0 (x1) |
+| CrossFire/SLI | AMD Quad CrossfireX and CrossFireX (2-Way) |
+| DIMM slots | (4) DDR4 4733+(OC), 128GB Capacity |
+| M.2 slots | (1) PCIe 4.0 x4 / PCIe Only (up to 80mm) |
+|
+ | (1) PCIe 3.0 x4 / SATA + PCIe (up to 110mm) |
+|
+ | (1) PCIe 3.0 x4 (Key E, 2230 Wi-Fi/BT Module - populated) |
+| U.2 Ports | ✗ |
+| SATA Ports | (6) SATA3 6 Gbps (RAID 0, 1, 5 and 10) |
+| USB Headers | (1) USB v3.2 Gen 2 (Type-C) |
+|
+ | (1) USB v3.2 Gen 1 |
+|
+ | (3) USB v2.0 |
+| Fan/Pump Headers | (7) 4-Pin (2A/24W each) |
+| RGB Headers | (1) aRGB (3-pin) |
+|
+ | (1) RGB (4-pin) |
+|
+ | (2) NZXT (4-pin) |
+| Legacy Interfaces | ✗ |
+| Other Interfaces | FP-Audio, TPM |
+| Diagnostics Panel | Yes (4 LED, CPU/RAM/VGA/Boot) |
+| Internal Button/Switch | Power and Reset |
+| SATA Controllers | ✗ |
+| Ethernet Controller(s) | Realtek RTL8125BG (2.5 GbE) |
+| Wi-Fi / Bluetooth | Intel AX210 Wi-Fi 6E (Tri-band, 802.11ax, 2x2, MU-MIMO, BT 5.2) |
+| USB Controllers | ✗ |
+| HD Audio Codec | Realtek ALC1220 |
+| DDL/DTS Connect | ✗ / ✗ |
+| Warranty | 3 Years |
