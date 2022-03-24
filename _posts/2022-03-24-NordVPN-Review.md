@@ -48,3 +48,5 @@ NordVPN used to portray itself as a zero-logs service, however recent changes to
 ## NordVPN Discount
 
 If you decided do purchase a NordVPN, purchase through button below and get up to 70% discount on your NordVPN Plan.
+
+<a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=68463&url_id=902" class="buy"> Get 70% OFF for NordVPN </a>
