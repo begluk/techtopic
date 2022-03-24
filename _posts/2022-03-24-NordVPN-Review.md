@@ -12,13 +12,13 @@ NordVPN is one of the most popular VPN services in the world. It's undoubtedly a
 
 You must have encountered content limitations on a number of streaming providers. Some content on most streaming platforms is only available in particular countries. However, you can watch these contents without any issues if you use NordVPN. We've compiled a list of services that have been shown to work with NordVPN.
 
-- Netflix 
+### Netflix 
 
 If you want to watch Netflix from different parts of the world, NordVPN is a great choice. 
-- HBO Max
+### HBO Max
 
 We tested HBO Max, it worked well. The load times were really fast, and the experience was pretty similar to that of not using a VPN. 
-- Hulu
+### Hulu
 
 Hulu is unblocked with NordVPN. There were no problems with loading times or video frame rates, and using NordVPN with Hulu was a great experience.
 And many other services like Disney+, iPlayer, BBC and  others works really well.
