@@ -49,4 +49,17 @@ NordVPN used to portray itself as a zero-logs service, however recent changes to
 
 If you decided do purchase a NordVPN, purchase through button below and get up to 70% discount on your NordVPN Plan.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=68463&url_id=902" class="buy"> Get 70% OFF for NordVPN </a>
+<div class="container">
+  <div class="row gx-3">
+    <div class="col-md">
+      <div class="shadow p-0 mb-5 bg-white rounded-3 text-center">
+        <div class="align-items-start bg-dark rounded-top text-white text-center font-weight-bold p-1">NordVPN</div>
+        <img class="p-2" src="/assets/images/nord.svg">
+        <a class="btn btn-outline-dark m-2 col-11" href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=68463&url_id=902">GET 70% OFF ></a>
+      </div>
+    </div>
+    <div class="col-md">
+    </div>
+  </div>
+</div>
+
