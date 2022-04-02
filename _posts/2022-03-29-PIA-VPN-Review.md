@@ -18,7 +18,7 @@ PIA is more budget friendly than most other VPNs at this quality. Their pricing 
 - $39.95 for 1 year ($3.33 monthly)
 - $79 for 3 years ($2.19 monthly)
 
-{% include image.html src="https://user-images.githubusercontent.com/93347720/161402909-982f2766-7d68-400a-acc3-21e44da3cb2d.png" alt="pia pricing" % }
+{% include image.html src="https://user-images.githubusercontent.com/93347720/161402909-982f2766-7d68-400a-acc3-21e44da3cb2d.png" alt="pia pricing" %}
 
 ## Prviacy
 
@@ -26,7 +26,7 @@ Privacy is the main focus of VPNs. PIA scores very high for privacy. Its applica
 
 PIA's apps are open source, so you can be sure to have control over any data collect about you. This also means other developers can contribute to the apps, to fix bugs quickly. 
 
-{% include image.html src="https://user-images.githubusercontent.com/93347720/161402772-5ff3fd7e-afda-44b1-af4e-0c670f28e0d7.jpg" alt="PIA privacy" % }
+{% include image.html src="https://user-images.githubusercontent.com/93347720/161402772-5ff3fd7e-afda-44b1-af4e-0c670f28e0d7.jpg" alt="PIA privacy" %}
 
 ## Performance
 
