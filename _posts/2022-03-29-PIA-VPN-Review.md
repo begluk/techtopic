@@ -20,7 +20,7 @@ PIA is more budget friendly than most other VPNs at this quality. Their pricing 
 
 {% include image.html src="https://user-images.githubusercontent.com/93347720/161402909-982f2766-7d68-400a-acc3-21e44da3cb2d.png" alt="pia pricing" %}
 
-## Prviacy
+## Privacy
 
 Privacy is the main focus of VPNs. PIA scores very high for privacy. Its applications use OpenVPN and WireGuard, two of the latest, most secure VPN protocols. OpenVPN uses AES-128 encryption by default, but you can bump that up to AES-256 in the settings. You can set the data authentication methods, including RSA-2048 and RSA-4096. PIA uses their own DNS server to minimize the chances of a DNS leak. PIA also automatically switches your connection off whenever it fails to connect to the VPN. You also get the option to block trackers, ensuring you stay safe online.
 
