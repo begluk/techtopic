@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Xiaomi 12 Smartphone Review
-image: assets/images/xiaomi12.jpg
+image: assets/images/xiaomi12.webp
 categories: Reviews
 ---
 
