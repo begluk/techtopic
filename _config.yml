@@ -3,7 +3,7 @@ email: contact@techtopic.org
 timezone: UTC-5
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/intro.webp'
 favicon: 'assets/images/favicon.ico'
 paginate: 30
 disqus: 'techtopic-org'
