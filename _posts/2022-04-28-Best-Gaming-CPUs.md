@@ -1,9 +1,8 @@
 ---
 layout: post
 published: true
-
 title: Best gaming CPUs in 2022
-image: /assets/cpu.jpg
+image: assets/cpu.jpg
 ---
 ## 1.    Intel Core i5-12600K
 
